@@ -1,6 +1,6 @@
 # golden
 start
-Information:
+:
 
 The project contains the html file (index.html) , css files, Images and css files. 
 You might want to read these files or downlopad , especially for Testing or Learning.
